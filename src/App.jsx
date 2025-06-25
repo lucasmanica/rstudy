@@ -1,10 +1,10 @@
 import React from 'react';
-import FormSelect from './Form/FormSelect';
+import FormCheckbox from './Form/FormCheckbox';
 const App = () => {
   return (
     <div>
       <div>App</div>
-      <FormSelect />
+      <FormCheckbox />
     </div>
   );
 };
